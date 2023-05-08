@@ -1,7 +1,7 @@
 # conjugate
 conjugate coding problem
 
-## It was a pleasure completing thiss assignment. 
+## It was a pleasure completing this assignment. 
 
 ## This project was bootstrapped with npm.
 
